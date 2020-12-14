@@ -7,3 +7,4 @@ We used the card data provided by Dacon, and we used the card payment data by ag
 
 Using the data pre-processed above, we printed the similarity between industries using pre-trained word2vec, and we used k-means to cluster similar clusters.
 Then, We proceeded with new card modeling by making card benefits into Word Cloud according to the selected cluster.
+
